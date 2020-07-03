@@ -1,3 +1,3 @@
-modules.export = {
+module.exports = {
     template: require('./project-list')
 }
