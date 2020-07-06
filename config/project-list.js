@@ -1,8 +1,12 @@
 
 module.exports = [
-    { type: 'separator', line: '微联本地调试的 vue 模板' },
+    { type: 'separator', line: '12345' },
     {
       name: 'devtool-vue-template',
-      desc: '微联本地调试的 vue 模板',
+      desc: '模版说明1',
+    },
+    {
+        name: 'devtool-123',
+        desc: '模版说明2',
     },
  ]
